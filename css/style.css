@@ -129,16 +129,6 @@
     font-weight: 550;
      font-size: 0.9em;
 }
-.work1 .words p{
-    color: rgba(171, 202, 70, 0.87); 
-} 
-.ufo .words p{
-    color:rgb(241, 116, 58);
-}
-.light .words p{
-    color:rgb(81, 131, 179);
-} 
-
 .words{
     margin:15px;
 }
